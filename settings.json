@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Mczt-n0j7.aternos.me",
-    "port": '58767,
+    "port": 58767,
     "version": "1.20.1",
     "try-creative": false
   },
